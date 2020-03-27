@@ -7,6 +7,9 @@ function App() {
   return (
     <div className="App">
       <Navbar/>
+      <div>
+        amazing form now even better
+      </div>
       <h1>Helloss</h1>
     </div>
   );
